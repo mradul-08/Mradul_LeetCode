@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
