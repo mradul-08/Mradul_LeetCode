@@ -71,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
