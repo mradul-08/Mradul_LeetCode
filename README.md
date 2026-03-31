@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0013-roman-to-integer) |
@@ -117,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
