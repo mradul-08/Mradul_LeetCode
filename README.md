@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0051-n-queens) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0051-n-queens) |
