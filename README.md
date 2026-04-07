@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Greedy
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
