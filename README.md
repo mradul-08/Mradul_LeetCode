@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1922-count-good-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1922-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
