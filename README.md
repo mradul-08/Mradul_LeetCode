@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0213-house-robber-ii) |
 ## Backtracking
 |  |
 | ------- |
