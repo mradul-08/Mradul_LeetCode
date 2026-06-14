@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0338-counting-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
