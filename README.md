@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1025-divisor-game) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
