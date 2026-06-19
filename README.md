@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1025-divisor-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
