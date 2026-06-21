@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1025-divisor-game) |
