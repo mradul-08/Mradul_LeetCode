@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0115-distinct-subsequences) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0070-climbing-stairs) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1922-count-good-numbers) |
