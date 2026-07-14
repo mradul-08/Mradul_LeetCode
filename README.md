@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mradul-08/Mradul_LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -273,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
