@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
