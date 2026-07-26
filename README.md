@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/mradul-08/Mradul_LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
