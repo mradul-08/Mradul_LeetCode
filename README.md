@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0162-find-peak-element) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mradul-08/Mradul_LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
